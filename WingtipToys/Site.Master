@@ -56,6 +56,7 @@
                         <li><a runat="server" href="~/About">关于</a></li>
                         <li><a runat="server" href="~/Contact">联系方式</a></li>
                         <li><a runat="server" href="~/ProductList">产品展示</a></li>
+                         <li><a runat="server" href="~/ShoppingCart" ID="cartCount">&nbsp;</a></li>
                     </ul>
                 </div>
             </div>
